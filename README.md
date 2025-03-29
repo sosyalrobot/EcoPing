@@ -2,7 +2,7 @@
 
 EcoPing is an IoT-powered environmental monitoring device that measures **temperature**, **humidity**, **air quality**, and **noise levels**, and uploads data to the cloud in real-time. The data is visualized through a simple and clean dashboard using ThingSpeak.
 
-![EcoPing Logo](https://github.com/sosyalrobot/EcoPing/logo.png)
+![EcoPing Logo](https://github.com/sosyalrobot/EcoPing/blob/main/logo.png)
 
 ---
 
